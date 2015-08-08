@@ -1,0 +1,1 @@
+My suggestion would be for everyone to create a folder with their name or initials for their own version of the code they are working on. It's ok to copy or borrow from anyone else, but maybe credit them in a comment if you take big chuncks. If you run code, please offer your results with comments in Assana so we can discuss.
